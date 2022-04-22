@@ -10,6 +10,6 @@
 
 ## Usage
 
-- Build
-- Upload to harbor
-- Used in your `Dockerfile` or anywhere like `kubernetes container`
+- build
+- upload to harbor
+- used in your `Dockerfile` or anywhere like `kubernetes container`
